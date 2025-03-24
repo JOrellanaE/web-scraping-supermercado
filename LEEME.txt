@@ -1,0 +1,10 @@
+Para ejecutar el proyecto, es necesario descargar ChromeDriver, 
+que es un complemento que permite que Selenium interactúe con Google Chrome.
+
+url: https://developer.chrome.com/docs/chromedriver/downloads?hl=es-419 
+(la versión utilizada para este repositorio es la versión 114.0.5735.90)
+
+para descargar las librerías se ingresa el comando
+
+pip install -r requirements.txt
+
